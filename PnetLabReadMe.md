@@ -33,4 +33,7 @@ Login to the PNETLab using the following credentials:
 - **Password**: `pnet`
 
 <img src="https://github.com/user-attachments/assets/c1f83889-2cc9-4b9e-bc8c-66cd8696204f"/>
+<br/>
+<img src="https://github.com/user-attachments/assets/db900365-8f53-4b25-92da-b6764d7e093c"/>
+
 
