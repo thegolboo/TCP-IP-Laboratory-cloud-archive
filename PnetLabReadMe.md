@@ -20,8 +20,9 @@
 <img src="https://github.com/user-attachments/assets/90ecad24-e0f3-4f2b-9949-859342ff1a0e"/>
 <br/><br/>
 
-Then turn on the PNETLab machine and wait until you see a screen with the IP address. <br/>
-(pnetlab login:root, password: pnet)
+Then turn on the PNETLab machine and wait until you see a screen with the IP address. 
+- **Username**: `root`
+- **Password**: `pnet`
 
 <img src="https://github.com/user-attachments/assets/e04b459f-2aba-494a-9d84-40ae32ce7610"/>
 
