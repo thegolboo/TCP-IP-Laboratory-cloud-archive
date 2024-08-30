@@ -31,3 +31,6 @@ Use the IP address to access the PNETLab from the browser.
 Login to the PNETLab using the following credentials:
 - **Username**: `root`
 - **Password**: `pnet`
+
+<img src="https://github.com/user-attachments/assets/f311fcc6-e2ed-4a8c-b885-763aeb831785"/>
+
