@@ -15,9 +15,9 @@
 <br/>
 <img src="https://github.com/user-attachments/assets/18018e6d-6956-4d56-8fb3-d278cd399016"/>
 <br/>
-<img src="https://github.com/user-attachments/assets/1dbec741-2c5c-4df4-a31b-e01a06f2df88"/>
+<img src="https://github.com/user-attachments/assets/1dbec741-2c5c-4df4-a31b-e01a06f2df88" length="600" width="500"/>
 <br/>
-<img src="https://github.com/user-attachments/assets/7054fdc1-b6b4-45a9-b443-74fcde06a470"/>
+<img src="https://github.com/user-attachments/assets/7054fdc1-b6b4-45a9-b443-74fcde06a470" length="600" width="500"/>
 <br/><br/>
 
 Then turn on the PNETLab machine and wait until you see a screen with the IP address. 
