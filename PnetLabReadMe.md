@@ -20,7 +20,13 @@
 <img src="https://github.com/user-attachments/assets/90ecad24-e0f3-4f2b-9949-859342ff1a0e"/>
 <br/><br/>
 
-Then turn on the PNETLab machine and wait until you see a screen with the IP address.
+Then turn on the PNETLab machine and wait until you see a screen with the IP address. <br/>
 (pnetlab login:root, password: pnet)
 
 <img src="https://github.com/user-attachments/assets/e04b459f-2aba-494a-9d84-40ae32ce7610"/>
+
+# Step 2: Register and Login
+Use the IP address to access the PNETLab from the browser.  
+Login to the PNETLab using the following credentials:
+- **Username**: `root`
+- **Password**: `pnet`
