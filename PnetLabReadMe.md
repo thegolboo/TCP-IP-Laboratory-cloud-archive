@@ -7,4 +7,4 @@
 <br/>
 <img src="https://github.com/user-attachments/assets/59843ef2-ce5f-4e95-90d8-d47dcb00b3bd"/>
 <br/>
-![2024-08-30 18_21_39-PNETLab - Google Docs](https://github.com/user-attachments/assets/2969fb07-53a9-42b4-ab31-26d19fd9f263)
+<img src="https://github.com/user-attachments/assets/2969fb07-53a9-42b4-ab31-26d19fd9f263"/>
