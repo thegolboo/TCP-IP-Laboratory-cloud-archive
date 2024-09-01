@@ -2,10 +2,10 @@
 
 # Installation
 
-## Step 1: Download and Deploy
+### Step 1: Download and Deploy
 [Download](https://pnetlab.com/pages/download) the `.ova` file and deploy it on virtualization platforms such as VMWare.
 
-### 1.
+#### 1.
 <img src="https://github.com/user-attachments/assets/fd5ef2b9-ca5a-4da7-96a4-0c0a52aae15f" length="800" width="600"/>
 
 ### 2.
