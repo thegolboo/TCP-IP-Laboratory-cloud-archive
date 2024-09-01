@@ -62,4 +62,27 @@ SSH to PNETLab with root account and run command to check:
 
 <img src="https://github.com/user-attachments/assets/09771ec5-466a-4273-a09c-1eedec375d3b"/>
 
+#### 3.
+Unzip upgrade package by command:
+- delete old upgrade folder if exist by command: `rm -rf upgrade`
+- `unzip [package] -d ./upgrade` (Eg: `unzip 4.0.1.zip -d ./upgrade`)
+- Check again by command : `ls -l` . You should see the upgrade folder
 
+<img src="https://github.com/user-attachments/assets/c6b3365b-d346-4aba-8fa9-b489d291abc6"/>
+<br/>
+<img src="https://github.com/user-attachments/assets/502b71b1-fb57-47f2-85dd-c1d5551ac54d"/>
+
+#### 4.
+Run below commands to upgrade:
+- `chmod 755 -R upgrade`
+- `find upgrade -type f -print0 | xargs -0 dos2unix`
+- `./upgrade/upgrade`
+
+<img src="https://github.com/user-attachments/assets/5854b9ab-f3b2-4c3a-874f-c7c45b5c1e63"/>
+<br/>
+<img src="https://github.com/user-attachments/assets/84c2f208-bc78-48e6-8957-70d258261847"/>
+
+#### 5.
+Login to Web Guide and check again.
+<br/><br/>
+<img src="https://github.com/user-attachments/assets/ac2f56d3-169a-40c6-9c64-19acf57af796"/>
