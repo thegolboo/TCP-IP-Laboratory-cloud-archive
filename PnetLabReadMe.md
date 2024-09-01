@@ -2,23 +2,29 @@
 
 # Step 1: Download and Deploy
 [Download](https://pnetlab.com/pages/download) the `.ova` file and deploy it on virtualization platforms such as VMWare.
-<br/>
+
 ### 1.
 <img src="https://github.com/user-attachments/assets/fd5ef2b9-ca5a-4da7-96a4-0c0a52aae15f" length="800" width="600"/>
 
 ### 2.
 <img src="https://github.com/user-attachments/assets/59843ef2-ce5f-4e95-90d8-d47dcb00b3bd"/>
-<br/>
+
+### 3.
 <img src="https://github.com/user-attachments/assets/4fdd2e9e-2021-4ae1-a0f4-941b56dfffd5" length="600" width="500"/>
-<br/>
+
+### 4.
 <img src="https://github.com/user-attachments/assets/b1c38994-d404-4428-99ac-f920bfb8a491" length="1000" width="800"/>
-<br/>
+
+### 5.
 <img src="https://github.com/user-attachments/assets/c6110652-e354-43df-a8df-11719e3eaaa2" length="1000" width="800"/>
-<br/>
+
+### 6.
 <img src="https://github.com/user-attachments/assets/18018e6d-6956-4d56-8fb3-d278cd399016"/>
-<br/>
+
+### 7.
 <img src="https://github.com/user-attachments/assets/1dbec741-2c5c-4df4-a31b-e01a06f2df88" length="600" width="500"/>
-<br/>
+
+### 8.
 <img src="https://github.com/user-attachments/assets/7054fdc1-b6b4-45a9-b443-74fcde06a470" length="600" width="500"/>
 <br/><br/>
 
