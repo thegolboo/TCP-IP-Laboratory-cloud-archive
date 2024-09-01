@@ -52,5 +52,14 @@ Login to the PNETLab using the following credentials:
 Access [link](https://pnetlab.com/pages/releases) to download the upgrade package. <br/>
 You have to upgrade step by step from your current version to the latest version. (E.g you can upgrade **1.0.1** > **1.0.2** > **1.0.3** . But you can not upgrade from 1.0.1 > 1.0.3 it may be get the error.) <br/>
 After Download the upgrade patch package. Copy it to **/tmp** folder of PNETLab.
-<br/>
+<br/><br/>
 <img src="https://github.com/user-attachments/assets/4ba6b0ce-aadc-4bfe-8c51-cfe778ad6cb8"/>
+
+#### 2.
+SSH to PNETLab with root account and run command to check:
+- `cd /tmp`
+- `ls -l`
+
+<img src="https://github.com/user-attachments/assets/09771ec5-466a-4273-a09c-1eedec375d3b"/>
+
+
