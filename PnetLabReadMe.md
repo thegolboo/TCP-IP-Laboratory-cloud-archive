@@ -50,17 +50,17 @@ Login to the PNETLab using the following credentials:
 
 #### 1. 
 Access [link](https://pnetlab.com/pages/releases) to download the upgrade package. <br/>
-You have to upgrade step by step from your current version to the latest version. (E.g you can upgrade **1.0.1** > **1.0.2** > **1.0.3** . But you can not upgrade from 1.0.1 > 1.0.3 it may be get the error.) <br/>
+For all of the versions till version **4.2.10**, you have to upgrade step by step from your current version to the latest version. (E.g you can upgrade **4.2.0** > **4.2.1** > **4.2.2** . But you can not upgrade from **4.2.0** > **4.2.2** it may be get the error.) However from version **5.2.7**, you can update directly to the latest version. <br/>
 After Download the upgrade patch package. Copy it to **/tmp** folder of PNETLab.
 <br/><br/>
-<img src="https://github.com/user-attachments/assets/4ba6b0ce-aadc-4bfe-8c51-cfe778ad6cb8"/>
+<img src="https://github.com/user-attachments/assets/662e1019-29bb-4b23-9f9d-7a2eacbb156d"/>
 
 #### 2.
 SSH to PNETLab with root account and run command to check:
 - `cd /tmp`
 - `ls -l`
 
-<img src="https://github.com/user-attachments/assets/09771ec5-466a-4273-a09c-1eedec375d3b"/>
+<img src="https://github.com/user-attachments/assets/489ce234-07a0-46f3-9e6e-ce44dc57a1d6"/>
 
 #### 3.
 Unzip upgrade package by command:
@@ -68,9 +68,9 @@ Unzip upgrade package by command:
 - `unzip [package] -d ./upgrade` (Eg: `unzip 4.0.1.zip -d ./upgrade`)
 - Check again by command : `ls -l` . You should see the upgrade folder
 
-<img src="https://github.com/user-attachments/assets/c6b3365b-d346-4aba-8fa9-b489d291abc6"/>
+<img src="https://github.com/user-attachments/assets/273a909e-7c42-4a4b-8486-a47750f08089"/>
 <br/>
-<img src="https://github.com/user-attachments/assets/502b71b1-fb57-47f2-85dd-c1d5551ac54d"/>
+<img src="https://github.com/user-attachments/assets/817681bd-8ab7-48e5-b7d6-1e64ea3a923c"/>
 
 #### 4.
 Run below commands to upgrade:
@@ -85,4 +85,5 @@ Run below commands to upgrade:
 #### 5.
 Login to Web Guide and check again.
 <br/><br/>
-<img src="https://github.com/user-attachments/assets/ac2f56d3-169a-40c6-9c64-19acf57af796"/>
+<img src="https://github.com/user-attachments/assets/cf458e4c-fa13-4051-8eb4-5b15470840e6"/>
+
