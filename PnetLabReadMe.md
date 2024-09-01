@@ -4,11 +4,9 @@
 [Download](https://pnetlab.com/pages/download) the `.ova` file and deploy it on virtualization platforms such as VMWare.
 <br/>
 ### 1.
-<br/>
 <img src="https://github.com/user-attachments/assets/fd5ef2b9-ca5a-4da7-96a4-0c0a52aae15f" length="800" width="600"/>
-<br/>
+
 ### 2.
-<br/>
 <img src="https://github.com/user-attachments/assets/59843ef2-ce5f-4e95-90d8-d47dcb00b3bd"/>
 <br/>
 <img src="https://github.com/user-attachments/assets/4fdd2e9e-2021-4ae1-a0f4-941b56dfffd5" length="600" width="500"/>
