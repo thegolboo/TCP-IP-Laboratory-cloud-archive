@@ -1,6 +1,8 @@
 # PNETLab
 
-# Step 1: Download and Deploy
+# Installation
+
+## Step 1: Download and Deploy
 [Download](https://pnetlab.com/pages/download) the `.ova` file and deploy it on virtualization platforms such as VMWare.
 
 ### 1.
@@ -34,7 +36,7 @@ Then turn on the PNETLab machine and wait until you see a screen with the IP add
 
 <img src="https://github.com/user-attachments/assets/e04b459f-2aba-494a-9d84-40ae32ce7610"/>
 
-# Step 2: Register and Login
+## Step 2: Register and Login
 Use the IP address to access the PNETLab from the browser.  
 Login to the PNETLab using the following credentials:
 - **Username**: `root`
