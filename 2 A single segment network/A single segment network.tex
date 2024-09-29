@@ -138,7 +138,7 @@ arp -d remote-host
 
 Save the ARP table for your lab report.
 
-While \lstbash{tcpdump -en}\footnote{You can add \lstbash{-x} flag to see hex dump.} is running, \lstbash{ping} a remote host that has no entry in the \textit{h0} ARP table.
+While \lstbash{tcpdump -en &}\footnote{You can add \lstbash{-x} flag to see hex dump.} is running, \lstbash{ping} a remote host that has no entry in the \textit{h0} ARP table.
 Then terminate the \lstbash{tcpdump} program.
 
 You can run \lstbash{wireshark} to capture network packet by \textbf{start capture} in GNS3 link menu.
