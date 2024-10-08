@@ -364,6 +364,24 @@ To view the reports of the \lstbash{webalizer}, start \textit{Mozilla} and enter
 Examine the web statistics displayed in the browser.
 Also click on the month links in the Summary by Month table to see the statistics of each month.
 
+
+To use goaccess , you need to edit its configuration file (/etc/goaccess.conf):
+ \begin{lstlisting}
+nano /etc/goaccess.conf
+\end{lstlisting}
+
+Enable NCSA Combined Log Format. You can do this by making sure than only this log format directive is
+enabled (i.e. is not commented):
+\begin{lstlisting}
+#NCSA Combined Log Format
+log-format %h %^[%d:%^] "%r" %s %b "%R" "%u"
+\end{lstlisting}
+
+Also add this time format directive to the same file:
+\begin{lstlisting}
+time-format %T
+\end{lstlisting}
+
 To analyze local log use this commands:
 \begin{lstlisting}
 goaccess -a > /var/www/html/report.html
