@@ -100,6 +100,7 @@ Execute \lstbash{netstat -g} to show the multicast group memberships for all the
 \end{report}
 
 \section{Multicast \texttt{ping}}
+Disable \lstbash{icmp_echo_ignore_broadcasts} paramenter on some host (minimum 2 host).
 Execute \lstbash{ping 224.0.0.1} on the \textit{h1}.
 Examine the \lstbash{ping} output to see which hosts reply.
 
@@ -107,13 +108,16 @@ Ping a broadcast address using \lstbash{ping -b 128.238.66.255}.
 Examine the \lstbash{ping} output to see which hosts reply.
 
 You can see or change broadcast ping replay state by:
-\begin{lstlisting}[emph=eth0]
-# kernel parameter
-cat /proc/sys/net/ipv4/icmp_echo_ignore_broadcasts  # see (read) kernel value
-echo 0 > /proc/sys/net/ipv4/icmp_echo_ignore_broadcasts  # set (write) kernel value
-# sysctl command
-sysctl net.ipv4.icmp_echo_ignore_broadcasts  # see (read)
-sysctl -w net.ipv4.icmp_echo_ignore_broadcasts=0  # set (write)
+\begin{lstlisting}
+# see (read) kernel value
+cat /proc/sys/net/ipv4/icmp_echo_ignore_broadcasts
+sysctl net.ipv4.icmp_echo_ignore_broadcasts
+
+# set (write) kernel value
+# 0 for disable and 1 for enable the kernel feature
+echo 0 > /proc/sys/net/ipv4/icmp_echo_ignore_broadcasts
+sysctl -w net.ipv4.icmp_echo_ignore_broadcasts=0
+
 # add to sysctl.conf file to load configuration on boot time
 echo "net.ipv4.icmp_echo_ignore_broadcasts = 0" >> /etc/sysctl.conf
 \end{lstlisting}
